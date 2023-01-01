@@ -100,6 +100,7 @@ For (somewhat) rapid development with wxWidgets, the wxGlade dialog generator
 tool is use. The public version of the Sound of Sorting contains no recording
 facilities. If you want to contribute a sorting algorithm, please notify me.
 
-## Exits
+## more
 
-Written 2013-05-22 by Timo Bingmann
+https://youtu.be/6XQc_FGNS98
+https://archive.org/details/peshay-studio-set
