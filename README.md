@@ -112,3 +112,4 @@ https://youtu.be/6XQc_FGNS98
 https://youtu.be/_4gl-FX2RvI
 https://youtu.be/ea_UOPzuyZU
 https://java.com
+https://github.com/joshuaword2alt/gif.js
